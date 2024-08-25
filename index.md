@@ -1,4 +1,4 @@
 # Lauren
 Hello! 👋
 
-!(lauren climbing)[/IMG_0307.jpeg]
+![lauren climbing](/IMG_0307.jpeg)
